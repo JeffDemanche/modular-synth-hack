@@ -1,0 +1,11 @@
+.node-draggable {
+  position: absolute;
+  color: white;
+  background-color: #333;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.node-header {
+  margin: 10px;
+}
